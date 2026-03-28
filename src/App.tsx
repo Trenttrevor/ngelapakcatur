@@ -35,7 +35,7 @@ export function App() {
             </div>
           </SidebarContent>
 
-          <div className="absolute top-4 left-80 z-50 flex items-center gap-3 rounded-lg border border-border/40 bg-background/70 px-2.5 py-2 backdrop-blur-sm">
+          <div className="absolute top-4 left-70 z-50 flex items-center gap-3 rounded-lg border border-border/40 bg-background/70 px-2.5 py-2 backdrop-blur-sm">
             <div className="flex h-5 items-center gap-4 text-sm">
               <SidebarTrigger />
               <Separator orientation="vertical" />
